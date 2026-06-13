@@ -18,4 +18,3 @@
 18. vless://4b664864-7ff6-4ea0-af08-fd57a98032cb@91.107.190.190:1070?security=reality&encryption=none&pbk=dODBH3TVhSwElfHRRlIBu5mtTOh3Opm_EYplb3Wqkic&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=62398309a87b4f27#yxng%20test%2018
 19. vless://4b664864-7ff6-4ea0-af08-fd57a98032cb@91.107.168.70:1070?security=reality&encryption=none&pbk=dODBH3TVhSwElfHRRlIBu5mtTOh3Opm_EYplb3Wqkic&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=62398309a87b4f27#yxng%20test%2019
 20. vless://4b664864-7ff6-4ea0-af08-fd57a98032cb@104.20.7.182:8080?path=%2Fpc&security=none&encryption=none&host=www.hooshinu.com&type=httpupgrade#yxng%20test%2020
-test
