@@ -1,0 +1,21 @@
+1. vless://4b664864-7ff6-4ea0-af08-fd57a98032cb@173.245.58.17:8080?path=%2Fpc&security=none&encryption=none&host=www.hooshinu.com&type=httpupgrade#yxng%20test%202
+2. vless://4b664864-7ff6-4ea0-af08-fd57a98032cb@104.16.118.137:8080?path=%2Fpc&security=none&encryption=none&host=www.hooshinu.com&type=httpupgrade#yxng%20test%203
+3. vless://4b664864-7ff6-4ea0-af08-fd57a98032cb@14.102.229.37:8080?path=%2Fpc&security=none&encryption=none&host=www.hooshinu.com&type=httpupgrade#yxng%20test%205
+4. vless://4b664864-7ff6-4ea0-af08-fd57a98032cb@104.20.7.182:8080?path=%2Fpc&security=none&encryption=none&host=www.hooshinu.com&type=httpupgrade#yxng%20test%204
+5. vless://4b664864-7ff6-4ea0-af08-fd57a98032cb@tivoli6.arvhamrah.ir:2095?path=%2FTV&security=none&encryption=none&host=tivoli6.arvhamrah.ir&type=ws#yxng%20test%201
+6. vless://4b664864-7ff6-4ea0-af08-fd57a98032cb@tivoli5.arvhamrah.ir:2095?path=%2FTV&security=none&encryption=none&host=tivoli5.arvhamrah.ir&type=ws#yxng%20test%206
+7. vless://4b664864-7ff6-4ea0-af08-fd57a98032cb@tivoli4.arvhamrah.ir:2095?path=%2FTV&security=none&encryption=none&host=tivoli4.arvhamrah.ir&type=ws#yxng%20test%207
+8. vless://4b664864-7ff6-4ea0-af08-fd57a98032cb@tivoli3.arvhamrah.ir:2052?path=%2FTV&security=none&encryption=none&host=tivoli3.arvhamrah.ir&type=ws#yxng%20test%208
+9. vless://4b664864-7ff6-4ea0-af08-fd57a98032cb@tivoli2.arvhamrah.ir:2082?path=%2FTV&security=none&encryption=none&host=tivoli2.arvhamrah.ir&type=ws#yxng%20test%209
+10. vless://4b664864-7ff6-4ea0-af08-fd57a98032cb@tivoli1.arvhamrah.ir:2082?path=%2FTV&security=none&encryption=none&host=tivoli1.arvhamrah.ir&type=ws#yxng%20test%2010
+11. vless://4b664864-7ff6-4ea0-af08-fd57a98032cb@URL.downloadnova.online:719?path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&security=none&encryption=none&host=play.google.com&type=ws#yxng%20test%2011
+12. vless://4b664864-7ff6-4ea0-af08-fd57a98032cb@45.10.59.38:719?path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&security=none&encryption=none&host=play.google.com&type=ws#yxng%20test%2012
+13. vless://4b664864-7ff6-4ea0-af08-fd57a98032cb@91.107.170.182:719?path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&security=none&encryption=none&host=play.google.com&type=ws#yxng%20test%2013
+14. vless://4b664864-7ff6-4ea0-af08-fd57a98032cb@45.10.59.38:719?path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&security=none&encryption=none&host=play.google.com&type=ws#yxng%20test%2014
+15. vless://4b664864-7ff6-4ea0-af08-fd57a98032cb@82.158.120.44:719?path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&security=none&encryption=none&host=play.google.com&type=ws#yxng%20test%2015
+16. vless://4b664864-7ff6-4ea0-af08-fd57a98032cb@45.10.59.38:1070?security=reality&encryption=none&pbk=dODBH3TVhSwElfHRRlIBu5mtTOh3Opm_EYplb3Wqkic&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=62398309a87b4f27#yxng%20test%2016
+17. vless://4b664864-7ff6-4ea0-af08-fd57a98032cb@45.10.59.38:1070?security=reality&encryption=none&pbk=dODBH3TVhSwElfHRRlIBu5mtTOh3Opm_EYplb3Wqkic&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=62398309a87b4f27#yxng%20test%2017
+18. vless://4b664864-7ff6-4ea0-af08-fd57a98032cb@91.107.190.190:1070?security=reality&encryption=none&pbk=dODBH3TVhSwElfHRRlIBu5mtTOh3Opm_EYplb3Wqkic&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=62398309a87b4f27#yxng%20test%2018
+19. vless://4b664864-7ff6-4ea0-af08-fd57a98032cb@91.107.168.70:1070?security=reality&encryption=none&pbk=dODBH3TVhSwElfHRRlIBu5mtTOh3Opm_EYplb3Wqkic&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=62398309a87b4f27#yxng%20test%2019
+20. vless://4b664864-7ff6-4ea0-af08-fd57a98032cb@104.20.7.182:8080?path=%2Fpc&security=none&encryption=none&host=www.hooshinu.com&type=httpupgrade#yxng%20test%2020
+test
